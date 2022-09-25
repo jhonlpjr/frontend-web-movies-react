@@ -28,8 +28,6 @@ function App() {
           </div>
         </div>
 
-
-
       </nav>
       <div className="container mt-3">
         <Routes>
